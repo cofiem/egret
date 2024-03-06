@@ -34,7 +34,7 @@
     <PackageReference Include="Serilog.Enrichers.Thread" Version="3.1.0" />
     <PackageReference Include="Serilog.Extensions.Hosting" Version="3.1.0" />
     <PackageReference Include="Serilog.Sinks.Console" Version="3.1.1" />
-    <PackageReference Include="SixLabors.ImageSharp" Version="1.0.1" />
+    <PackageReference Include="SixLabors.ImageSharp" Version="2.1.7" />
     <PackageReference Include="Spectre.Console" Version="0.32.1" />
     <PackageReference Include="StringTokenFormatter" Version="4.1.0" />
     <PackageReference Include="System.CommandLine" Version="2.0.0-beta1.20371.2" />
